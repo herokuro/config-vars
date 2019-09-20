@@ -1,0 +1,28 @@
+{
+  "name": "@herokuro/config-vars",
+  "version": "0.0.0-development",
+  "description": "A simple Node.js wrapper around Heroku's config vars.",
+  "author": "Richard King <richrdkng@gmail.com> (www.richrdkng.com)",
+  "license": "ISC",
+  "homepage": "https://github.com/herokuro/config-vars#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herokuro/config-vars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/herokuro/config-vars/issues"
+  },
+  "keywords": [
+    "herokuro",
+    "@herokuro",
+    "heroku",
+    "website",
+    "config-vars"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
